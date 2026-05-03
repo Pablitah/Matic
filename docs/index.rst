@@ -12,7 +12,7 @@ In today’s digital world, having reliable security software is essential to pr
        <a href="https://pcmaticdesk.github.io/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with PC Matic</a>
    </div>
 
-If you have already purchased PC Matic or are an existing customer, the process of downloading, installing, and activating the software is simple when done correctly. This guide provides a complete step-by-step explanation to help you get started quickly and securely.
+If you have already purchased PC Matic or are an existing customer, the process of downloading, installing, and activating the software is simple when done correctly. This guide provides a complete step-by-step explanation to help you get started quickly and securely
 
 What is PC Matic?
 ================
