@@ -6,6 +6,12 @@ Introduction
 
 In today’s digital world, having reliable security software is essential to protect your devices from malware, ransomware, and other online threats. PC Matic is a trusted solution that offers advanced protection along with system optimization features. Many users frequently search for guidance on *Install PC Matic Already Purchased*, *PC Matic Download Existing Customers*, and *PC Matic Download Install* to properly set up their software without confusion.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://pcmaticdesk.github.io/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with PC Matic</a>
+   </div>
+
 If you have already purchased PC Matic or are an existing customer, the process of downloading, installing, and activating the software is simple when done correctly. This guide provides a complete step-by-step explanation to help you get started quickly and securely.
 
 What is PC Matic?
